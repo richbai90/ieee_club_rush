@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Documentation
+title: IEEE Club Rush
 ---
